@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -25,7 +25,7 @@
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-negreiros/)
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=CllgCJZZQbQhfqdNFvVJKMfnDTvTNCwrtvwwXmTtMnXdvHRwSvXXWcxbrdwNfpjHSvQHZfBdCKg)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -34,7 +34,7 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+    <img align="center" alt="NodeJS" height="30" width="50" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -49,4 +49,4 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [DevLinks](https://github.com/larangmota/projeto-devlinks)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
+
