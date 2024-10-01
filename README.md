@@ -1,12 +1,12 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Lara!</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Lara! A Full-stack Developer student from Brazil.
+   A Full-stack Developer student from Brazil.
 
   - 🌱 I’m currently studying Full-stack programming at Senac-RN.
 
